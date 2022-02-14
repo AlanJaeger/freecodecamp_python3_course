@@ -5,7 +5,7 @@
 try:
     file_input = open('mbox-short.txt')
 except:
-    print('there is not file with that name in folder')
+    print('there is no file with that name in folder')
     quit()
     
 line_count = 0
