@@ -1,8 +1,5 @@
 #open a file and count how many time a word appears and print the word with the count.
 
-from itertools import count
-
-
 try:
     file_input = open('clown.txt')
 except:
